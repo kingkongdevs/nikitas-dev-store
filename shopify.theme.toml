@@ -1,0 +1,4 @@
+[environments.development]
+theme = "149672001836"
+store = "nikitas-dev-store"
+password  = "shptka_7c027d3c16099a28fb4ffd5a96bd07d0"
